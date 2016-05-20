@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>web3.min.js</file>
+    </qresource>
+</RCC>
